@@ -1,0 +1,31 @@
+{
+  "games": {
+    "minecraft": {
+      "name": "Minecraft",
+      "emoji": "⛏️",
+      "tips": [
+        {"emoji": "🎨", "text": "Build a secret door behind a painting!"},
+        {"emoji": "🌊", "text": "Make a hidden underwater base with glass and kelp."},
+        {"emoji": "🏰", "text": "Build a tower that is exactly twenty blocks tall."}
+      ]
+    },
+    "roblox": {
+      "name": "Roblox",
+      "emoji": "🧱",
+      "tips": [
+        {"emoji": "🕵️", "text": "Hide a tiny clue somewhere in your build for a friend to find."},
+        {"emoji": "🎢", "text": "Design a rollercoaster with one surprise drop."},
+        {"emoji": "🏠", "text": "Build a house using only three colours."}
+      ]
+    },
+    "default": {
+      "name": "Your favourite game",
+      "emoji": "🎮",
+      "tips": [
+        {"emoji": "🗺️", "text": "Draw a map of your game world on paper."},
+        {"emoji": "🧩", "text": "Invent one new rule and try it for five minutes."},
+        {"emoji": "🤝", "text": "Teach a friend your best trick."}
+      ]
+    }
+  }
+}
